@@ -1,0 +1,14 @@
+nav div ul li{
+    /* background-color: burlywood; */
+    display: inline;
+    padding:  40px 40px;
+    float: right;
+}   
+h1 {
+    background-color: burlywood;
+    color: black;
+}
+p{
+    background-color: burlywood;
+}
+
